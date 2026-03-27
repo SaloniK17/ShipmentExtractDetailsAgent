@@ -1,0 +1,7 @@
+langchain
+langchain-groq
+langchain-core
+pydantic
+python-dotenv
+tenacity
+rapidfuzz
